@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Ch3Num12.cpp
+c:\users\dmakk767\documents\flash drive stuff\c++\c++\ch3num12\ch3num12\ch3num12.cpp(156): warning C4715: 'getMonthValue': not all control paths return a value
+  LINK : C:\Users\DMAKK767\Documents\FLash drive Stuff\C++\C++\Ch3Num12\Debug\Ch3Num12.exe not found or not built by the last incremental link; performing full link
+  Ch3Num12.vcxproj -> C:\Users\DMAKK767\Documents\FLash drive Stuff\C++\C++\Ch3Num12\Debug\Ch3Num12.exe
